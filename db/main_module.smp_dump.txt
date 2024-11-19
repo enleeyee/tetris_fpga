@@ -1,0 +1,6 @@
+
+State Machine - |main_module|automaton:automaton|game_current_process
+Name game_current_process.game_over game_current_process.game game_current_process.ready 
+game_current_process.ready 0 0 0 
+game_current_process.game 0 1 1 
+game_current_process.game_over 1 0 1 
